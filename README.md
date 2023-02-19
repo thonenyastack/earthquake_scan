@@ -1,8 +1,6 @@
 # scanme
-my very first project on gitbub
 
-This project intend to help on data gathering related to network and Web. 
+This project intend to track earquake data for specific country based on Web Mining Tools
 
-I'd like to Welcome for your contribution. 
 
 Cheers!1!1 ^\/^
